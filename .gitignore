@@ -1,0 +1,18 @@
+# compiled files
+*.class
+
+#log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+.idea/
+*.iml
+.DS_Store
+target/
